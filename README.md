@@ -3,7 +3,7 @@
 
 ### How to use it ?
 1. Create a ".env" file at the root of the project and create variable named TOKEN
-TOKEN=exampleOfToken
+ex: TOKEN=exampleOfToken
 
 2. npm i
 
