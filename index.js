@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const DisplayTime = require('./components/DisplayTime');
-const Welcome = require('./components/Welcome');
+const DisplayTime = require('./modules/DisplayTime');
+const Welcome = require('./modules/Welcome');
 require('dotenv').config();
 
 const PRE = "!";
