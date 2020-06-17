@@ -1,11 +1,11 @@
 module.exports = class Pong {
 
-    static $PongQ ( message ) {
+    static $pongQ ( message ) {
         let PRE = "$";
         return message.content === PRE + "ping";
     }
 
-    static $PongA ( message ) {
+    static $pongA ( message ) {
         return message.channel.send('🏓 - Pong !');
     }
 
