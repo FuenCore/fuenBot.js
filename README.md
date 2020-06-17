@@ -2,8 +2,11 @@
 ## Bot discord 
 
 ### How to use it ?
-1. Create a ".env" file at the root of the project and create variable named TOKEN
-ex: TOKEN=exampleOfToken
+1. Create a ".env" file at the root of the project and create variable named TOKEN and SERVNAME
+
+ex: 
+TOKEN=exampleOfToken
+SERVNAME=ServerName
 
 2. npm i
 
